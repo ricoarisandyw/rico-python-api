@@ -24,6 +24,7 @@ def parse_html():
 
 	_parsed_html = BeautifulSoup(_text,'html.parser')
 	_list = _parsed_html.prettify().split('\n')
+	
 	_container = []
 	for _l in _list:
 		if _l[0] == '<' and _l[-1] == '>':
