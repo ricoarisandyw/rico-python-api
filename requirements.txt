@@ -31,6 +31,7 @@ gast==0.2.2
 get==2018.11.19
 google-pasta==0.1.7
 googletrans==2.4.0
+gunicorn==19.9.0
 grpcio==1.22.0
 h5py==2.9.0
 haversine==2.0.0
