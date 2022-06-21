@@ -52,7 +52,7 @@ mimerender==0.6.0
 mysqlclient==1.3.14
 Naked==0.1.31
 nltk==3.4.5
-numpy==1.17.0
+numpy==1.22.0
 opencv-python==4.1.0.25
 pandas==0.24.2
 Pillow==6.2.0
